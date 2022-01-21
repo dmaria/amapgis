@@ -1,8 +1,17 @@
 <template>
   <div id="app">
-    ssss
+    ssssa
   </div>
 </template>
+
+<script>
+export default {
+  name:'App',
+  components:{
+
+  }
+}
+</script>
 
 <style lang="scss">
 html,body,#app{
